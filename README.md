@@ -1,7 +1,7 @@
 ## OLÁ! Eu sou André Moura👋
 _______________________________________________________________________________________________________________________________________________________________________
 - 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC
-- 🌱 Estudando Dados Abertos 
+- 🌱 Estudando Dados Abertos e Ciência de Dados
 - 📫 Contate-me via email: andrelens991@gmail.com
 - 😄 ele/dele
 
