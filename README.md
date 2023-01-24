@@ -13,6 +13,9 @@ ________________________________________________________________________________
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
 </div>
+
+
+
 _______________________________________________________________________________________________________________________________________________________________________
 
 <div>
@@ -53,7 +56,7 @@ ________________________________________________________________________________
  __________________________________________________________________________________________________________________________________________________________________
   🔗 Acesso ao Perfil Principal:
   <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     
   </div> 
   
