@@ -1,10 +1,10 @@
 ## OLÁ! Eu sou André Moura👋
-_________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 - 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC
 - 🌱 Estudando Dados Abertos 
 - 📫 Contate-me via email: andrelens991@gmail.com
 - 😄 ele/dele
-_________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 
 <div>
 <a href="https://github.com/AndreMouraL">
@@ -32,4 +32,20 @@ ________________________________________________________________________________
 <!--   <img align="center" alt="Andre-VHDL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original-wordmark.svg"> -->
 </div>
   
+  
+  
+  
+  
+  
+  
+  
+<!--  ##
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreMouraL&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreMouraL&repo=convoychat" />
+</a> -->
+  
+
   
