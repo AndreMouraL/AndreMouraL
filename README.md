@@ -21,7 +21,8 @@ ________________________________________________________________________________
 <div>
 <a href="https://github.com/AndreMouraL">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMouraL&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  
+
+
 ##
   
   
@@ -43,16 +44,19 @@ ________________________________________________________________________________
   <img align="center" alt="Andre-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-## LINGUAGENS JÁ USADAS NO MEU CONTIDIANO:
+## LINGUAGENS JÁ TRABALHADAS:
   <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-R" height="40" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Andre-VHDL" height="40" width="50" src="https://img.shields.io/badge/VHDL-286DC3?style=for-the-badge&logo=vhdl&logoColor=white">
+  <img align="center" alt="https://pt.wikipedia.org/wiki/Portugol" height="40" width="100" src="https://img.shields.io/badge/Portugol-FDD535?style=for-the-badge&logo=porgugol&logoColor=black">
 <!--   <img align="center" alt="Andre-VHDL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original-wordmark.svg"> -->
 </div>
   
-  
-  
+<!--   <div>
+   <img align="center" alt="Andre-L" height="100" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+    
+  </div> -->
  __________________________________________________________________________________________________________________________________________________________________
   🔗 Acesso ao Perfil Principal:
   <div> 
