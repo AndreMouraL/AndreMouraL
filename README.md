@@ -49,7 +49,7 @@ ________________________________________________________________________________
   <img align="center" alt="Andre-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-R" height="40" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Andre-VHDL" height="40" width="50" src="https://img.shields.io/badge/VHDL-286DC3?style=for-the-badge&logo=vhdl&logoColor=white">
-  <img align="https://pt.wikipedia.org/wiki/Portugol" alt="Andre-PORTUGOL" height="40" width="100" src="https://img.shields.io/badge/Portugol-FDD535?style=for-the-badge&logo=porgugol&logoColor=black">
+  <img align="center" alt="Andre-PORTUGOL" height="40" width="100" src="https://img.shields.io/badge/Portugol-FDD535?style=for-the-badge&logo=porgugol&logoColor=black","https://pt.wikipedia.org/wiki/Portugol">
 <!--   <img align="center" alt="Andre-VHDL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original-wordmark.svg"> -->
 </div>
   
