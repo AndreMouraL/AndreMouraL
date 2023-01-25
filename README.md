@@ -3,7 +3,7 @@
 ![git hub capa](https://user-images.githubusercontent.com/117699977/214450709-68b525dd-9a2e-4475-a90f-dccc4990d563.png)
 ## OLÁ! Eu sou André Moura👋
 _______________________________________________________________________________________________________________________________________________________________________
-- 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC
+- 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC/CNPq
 - 🌱 Estudando Dados Abertos e Ciência de Dados
 - 📫 Contate-me via email: andrelens991@gmail.com
 - 😄 ele/dele
