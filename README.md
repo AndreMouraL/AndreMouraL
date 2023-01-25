@@ -1,5 +1,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ![git hub capa](https://user-images.githubusercontent.com/117699977/214450709-68b525dd-9a2e-4475-a90f-dccc4990d563.png)
 ## OLÁ! Eu sou André Moura👋
 _______________________________________________________________________________________________________________________________________________________________________
@@ -33,8 +32,7 @@ ________________________________________________________________________________
   PAINEL DE MONITORAMENTO DE LINGUAGENS (EM ANDAMENTO):
   
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=20&theme=merko"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=20&theme=merko"/></div>
   
   
 ## LINGUAGENS USADAS (ATUALMENTE):
@@ -65,9 +63,9 @@ ________________________________________________________________________________
     
   </div> -->
  __________________________________________________________________________________________________________________________________________________________________
-  🔗 Acesso ao Perfil Principal:
+<!--   🔗 Acesso ao Perfil Principal:
   <div> 
-  <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
     
   </div> 
   👀 Visitantes 👇
