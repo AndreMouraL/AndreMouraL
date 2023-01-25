@@ -5,7 +5,7 @@
 _______________________________________________________________________________________________________________________________________________________________________
 - 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC/CNPq
 - 🌱 Estudando Dados Abertos e Ciência de Dados
-- 📫 Contate-me via email: andrelens991@gmail.com
+- 📫 Contate-me via email: 
 - 😄 ele/dele
 
 <div> 
@@ -70,8 +70,9 @@ ________________________________________________________________________________
   <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     
   </div> 
-  
   👀 Visitantes 👇
+  </br>
+  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/AndreMouraL/count.svg"/></p>
   <div> 
 <!--   ![](https://komarev.com/ghpvc/?username=AndreMouraL&color=blue&style=flat) -->
   </div> 
