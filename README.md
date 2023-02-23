@@ -77,7 +77,7 @@ ________________________________________________________________________________
   <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
     
   </div> 
-  👀 Visitantes 👇
+  👀 Visitantes 👉
   </br>
   <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/AndreMouraL/count.svg"/></p>
   <div> 
