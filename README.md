@@ -49,6 +49,7 @@ ________________________________________________________________________________
   <img align="center" alt="Andre-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Andre-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">⇨(
+  <img align="center" alt="Andre-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">,
   <img align="center" alt="Andre-Nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">,
   <img align="center" alt="Andre-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">)
   <img align="center" alt="Andre-SQL" height="40" width="50" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
