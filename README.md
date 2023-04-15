@@ -4,6 +4,7 @@
 _______________________________________________________________________________________________________________________________________________________________________
 - 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC/CNPq - UFMA
 - 🌱 Estudando Dados Abertos e Ciência de Dados
+- 🧑‍💻 Aréa de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
 - 📫 Contate-me via email: (...)
 - 😄 ele/dele
 
