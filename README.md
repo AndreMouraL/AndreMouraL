@@ -3,8 +3,8 @@
 ## OLÁ! Eu sou André Moura👋
 _______________________________________________________________________________________________________________________________________________________________________
 - 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC/CNPq - UFMA
-- 🌱 Estudando Dados Abertos e Ciência de Dados
-- 🧑‍💻 Aréa de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
+- 🌱 Área de Estudo: Dados Abertos,  Ciência de Dados, Lógica de Progração, Segurança Digital e Inteligência Artificial
+- 🧑‍💻 Área de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
 - 📫 Contate-me via email: (...)
 - 😄 ele/dele
 
