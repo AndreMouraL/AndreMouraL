@@ -58,7 +58,7 @@ ________________________________________________________________________________
   
 </div>
   
-## LINGUAGENS JÁ TRABALHADAS:
+## LINGUAGENS JÁ UTILIZADAS:
   <div style="display: inline_block"><br>
   <img align="center" alt="Andre-PORTUGOL" height="40" width="100" src="https://img.shields.io/badge/Portugol-FDD535?style=for-the-badge&logo=porgugol&logoColor=black">
  <!-- <img align="center" alt="Andre-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
