@@ -5,7 +5,7 @@ ________________________________________________________________________________
 - 🔭 Estou atualmente  com estudo de linguangens e Projeto de Bolsa PIBIC/CNPq - UFMA
 - 🌱 Área de Estudo: Dados Abertos,  Ciência de Dados, Lógica de Progração, Segurança Digital e Inteligência Artificial
 - 🧑‍💻 Área de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
-- 📫 Contate-me via email: (...)
+- 📫 Contate-me via LinkInd que aparece na Descrição
 - 😄 ele/dele
 
 <div> 
