@@ -77,7 +77,24 @@ ________________________________________________________________________________
   <div> 
   <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
     
-  </div> 
+
+ <p align="center"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreMouraL&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMouraL&theme=dark&hide_border=false" /><br/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=7&theme=dark" />
+<a href="https://github.com/AndreMouraL"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreMouraL&theme=transparent&bg_color=blue" /> 
+</a>
+
+  </p> 
+  
+ <p align="center"> 
+   <a href="https://github.com/AndreMouraL"> 
+     <img src="https://komarev.com/ghpvc/?username=AndreMouraL&color=blue&style=flat)" /> 
+   </a> 
+ </p> 
+
+   </div> 
   👀 Visitantes 👉
   </br>
   <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/AndreMouraL/count.svg"/></p>
@@ -91,6 +108,5 @@ ________________________________________________________________________________
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreMouraL&repo=convoychat" />
 </a> -->
-  
 <!-- comentando através do teclado-->
 <!--  API Retificada por André Moura em 24/01/2023 - 17:35.  -->
