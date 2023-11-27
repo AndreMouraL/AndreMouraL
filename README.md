@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 🌱 Área de Estudo: Dados Abertos,  Ciência de Dados, Lógica de Progração, Segurança Digital e Inteligência Artificial
 - 🧑‍💻 Área de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
 - 📫 Contate-me via Linkedin que aparece na Descrição
-- 😄 ele/dele
+- 😄 ele/dele e publicações de artih=gos conceituados SBC e RSC
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
