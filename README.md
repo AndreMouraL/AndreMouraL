@@ -93,12 +93,12 @@ ________________________________________________________________________________
      <img src="https://komarev.com/ghpvc/?username=AndreMouraL&color=blue&style=flat)" /> 
    </a> 
  </p> 
-
+<!-- 
    </div> 
   👀 Visitantes 👉
   </br>
   <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/AndreMouraL/count.svg"/></p>
-  <div> 
+  <div> -->
 <!--   ![](https://komarev.com/ghpvc/?username=AndreMouraL&color=blue&style=flat) -->
   </div> 
 <!--  ##
