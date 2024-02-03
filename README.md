@@ -2,8 +2,9 @@
 ![git hub capa](https://user-images.githubusercontent.com/117699977/214450709-68b525dd-9a2e-4475-a90f-dccc4990d563.png)
 ## OLÁ! Eu sou André Moura👋
 _______________________________________________________________________________________________________________________________________________________________________
-- 🔭 Estou atualmente  com estudo de linguangens e Projetos: 
-        📋 Projeto de pesquisa Bolsa PIBIC/CNPq - UFMA - Finalizado.;
+- 🔭 Estou atualmente  com estudo de linguangens e Projetos:
+  
+        📋 Projeto de pesquisa Bolsa PIBIC/CNPq - UFMA - Finalizado;
         📋 Projeto de Extesão em Andamento;
 - 🌱 Área de Estudo: Dados Abertos,  Ciência de Dados, Lógica de Promagração, Segurança Digital e Inteligência Artificial
 - 🧑‍💻 Área de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
