@@ -6,6 +6,7 @@ ________________________________________________________________________________
   
         📋 Projeto de pesquisa Bolsa PIBIC/CNPq - UFMA - Finalizado;
         📋 Projeto de Extesão em Andamento;
+  
 - 🌱 Área de Estudo: Dados Abertos,  Ciência de Dados, Lógica de Promagração, Segurança Digital e Inteligência Artificial
 - 🧑‍💻 Área de Atuação Interdisciplinar em Ciência e Tecnologia e  Engenharia da Computação
 - 📫 Contate-me via Linkedin que aparece na Descrição
