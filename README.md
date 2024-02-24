@@ -60,6 +60,8 @@ ________________________________________________________________________________
   <img align="center" alt="Andre-SQL" height="40" width="50" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
 <!--   <img align="center" alt="Andre-Mysql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -->
   
+    C#
+  
 </div>
   
 ## LINGUAGENS JÁ UTILIZADAS:
