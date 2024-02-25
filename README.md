@@ -35,7 +35,6 @@ ________________________________________________________________________________
 
 <!--##-->
   
-  
   PAINEL DE MONITORAMENTO ESTATÍSTICO DE LINGUAGENS :
   <!--PAINEL DE MONITORAMENTO DE LINGUAGENS (EM ANDAMENTO):-->
 <!--  
