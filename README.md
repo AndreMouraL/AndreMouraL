@@ -95,6 +95,10 @@ ________________________________________________________________________________
 <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=7&theme=dark" />-->
 </a>
 
+## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asril46&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
 </p> 
   
  <p align="center"> 
