@@ -37,14 +37,14 @@ ________________________________________________________________________________
 
 <!--##-->
   
-  PAINEL DE MONITORAMENTO ESTATÍSTICO DE LINGUAGENS :
+ <!-- PAINEL DE MONITORAMENTO ESTATÍSTICO DE LINGUAGENS :-->
   <!--PAINEL DE MONITORAMENTO DE LINGUAGENS (EM ANDAMENTO):-->
 <!--  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=20&theme=merko"/></div>
   -->
   
   
- [![Andre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=20&theme=merko)](https://github.com/AndreMouraL/github-readme-stats)
+<!-- [![Andre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=20&theme=merko)](https://github.com/AndreMouraL/github-readme-stats)-->
 
 
   
@@ -83,24 +83,24 @@ ________________________________________________________________________________
 <!--   🔗 Acesso ao Perfil Principal:
   <div> 
   <a href="https://github.com/AndreMouraL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
-  ## TROFÉU DO PERFIL DO GITHUB 🏆
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreMouraL&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+ <!-- ## TROFÉU DO PERFIL DO GITHUB 🏆
+  <img src="https://github-profile-trophy.vercel.app/?username=AndreMouraL&margin-w=25&margin-h=25&column=7&theme=darkhub" />   --> 
   
   ## GITHUB STATS 📈
 
 <p align="center">  
 <a href="https://github.com/AndreMouraL"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreMouraL&theme=transparent&bg_color=blue" /> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreMouraL&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreMouraL&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />-->
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMouraL&theme=dark&hide_border=false" /><br/>
 <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMouraL&layout=compact&langs_count=7&theme=dark" />-->
 </a>
 
-## CODING ACTIVITY
+<!--## CODING ACTIVITY
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asril46&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
-</p> 
+</p> -->
   
  <p align="center"> 
    <a href="https://github.com/AndreMouraL"> 
