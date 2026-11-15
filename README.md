@@ -64,6 +64,7 @@ ________________________________________________________________________________
   <img align="center" alt="Andre-PORTUGOL" height="40" width="100" src="https://img.shields.io/badge/Portugol-FDD535?style=for-the-badge&logo=porgugol&logoColor=black">
   <img align="center" alt="Andre-R" height="40" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Andre-VHDL" height="40" width="50" src="https://img.shields.io/badge/VHDL-286DC3?style=for-the-badge&logo=vhdl&logoColor=white">
+  PHP ...
 <!--</div>-->
 <!--## LINGUAGENS JÁ UTILIZADAS:-->
 <!--<div style="display: inline_block"><br>-->
